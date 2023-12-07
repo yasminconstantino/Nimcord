@@ -1,5 +1,5 @@
 <h1>Nimcord live chat</h1>
-<img src="icons8-chat-100.png"/>
+<img src="icons8-chat-100.png" width="48"/>
 <br>
 <h3>It was developed used both frontend and backend properties with flet</h3>
 <br>
